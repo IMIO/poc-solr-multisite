@@ -1,0 +1,7 @@
+plone*/.installed.cfg
+plone*/pip-selfcheck.json
+plone*/bin/
+plone*/src/
+plone*/lib/
+plone*/parts/
+plone*/var/
